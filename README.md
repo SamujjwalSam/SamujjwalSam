@@ -1,5 +1,6 @@
 <h1 align="center">Hello, I'm Samujjwal</h1>
-<h3 align="center">Pursuing PhD in Machine Learning at IIT Hyderabad</h3>
+<h3 align="center">Machine Learning Enginner @ Intel</h3>
+<h3 align="center">PhD in Natural Language Processing and Graph Neural Networks from CSE, IIT Hyderabad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samujjwalsam&label=Profile%20views&color=0e75b6&style=flat" alt="samujjwalsam" /> </p>
 
@@ -7,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/samujjwal_sam" target="blank"><img src="https://img.shields.io/twitter/follow/samujjwal_sam?logo=twitter&style=for-the-badge" alt="samujjwal_sam" /></a> </p>
 
-- 🔭 I’m currently working on [Domain Adaptation in Natural Language Processing](https://github.com/SamujjwalSam/Short-text_GNN).
+- 🔭 I’m currently working on enabling distributed **Graph Neural Networks (GNN)**.
 
-- 🌱 I’m currently learning **Reinforcement Learning** and **SQL**.
+- 🌱 I’m currently learning **Acclerated Machine Learning**.
 
-- 👨‍💻 More details about me is available at [https://sites.google.com/view/samujjwal](https://sites.google.com/view/samujjwal)
+- 👨‍💻 More details about me is available at [https://sites.google.com/view/samujjwal](https://sites.google.com/view/samujjwal) and [Scholar](https://scholar.google.com/citations?hl=en&user=kROmZdsAAAAJ)
 
-- 💬 Feel Free to Ask me about: **Graph Neural Networks, Knowledge Distillation, Machine Learning, Deep Learning**.
+- 💬 Feel Free to Ask me about: **Graph Neural Networks, Natural Language Processing, Machine Learning, Deep Learning**.
 
-- 📫 Reach me at **cs16resch01001@iith.ac.in**.
+- 📫 Reach me at **samujjwal.sam@gmail.com**.
 
-- ⚡ I enjoy **advising** startups and **educating** others on Machine Learning. I advise [**SpoonShot**](https://SpoonShot.com), a food-tech startup.
+- ⚡ I enjoy **advising** startups and **educating / mentoring** others on Machine Learning. I used to advise [**SpoonShot**](https://SpoonShot.com), a food-tech startup, from April 2020 to December 2021.
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
