@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Samujjwal</h1>
-<h3 align="center">Machine Learning Enginner @ Intel</h3>
-<h3 align="center">PhD in Natural Language Processing and Graph Neural Networks from CSE, IIT Hyderabad</h3>
+<h3 align="center">Applied Scientist @ Inception, G42</h3>
+<h3 align="center">Working on training large language models, e.g. Jais</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samujjwalsam&label=Profile%20views&color=0e75b6&style=flat" alt="samujjwalsam" /> </p>
 
